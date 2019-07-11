@@ -1,4 +1,4 @@
 "Frodo Baggins"
 "Samwise Gamgee"
-"Pippin Took"
-"Merry Brandybuck"
+"Peregrin Took"
+"Meriadoc Brandybuck"
